@@ -31,6 +31,7 @@ HTML5, CSS3, JavaScript를 이용한 반응형 웹 퍼블리싱까지 구현되�
 - [메인](https://udtennis.github.io/udt_project/test/html/main.html)
   - [로그인](https://udtennis.github.io/udt_project/test/html/login.html)
   - [회원가입](https://udtennis.github.io/udt_project/test/html/signin.html)
+  - [마이페이지](https://udtennis.github.io/udt_project/test/html/Mypage.html)
 - [테니스 예약 (강사 찾기)](https://udtennis.github.io/udt_project/test/html/local.html)
 - [강사 상세](https://udtennis.github.io/udt_project/test/html/coach_detail.html)
 - [1:1 채팅](https://udtennis.github.io/udt_project/test/html/chat.html)
@@ -38,12 +39,6 @@ HTML5, CSS3, JavaScript를 이용한 반응형 웹 퍼블리싱까지 구현되�
 - [결제 완료](https://udtennis.github.io/udt_project/test/html/yj.html)
 
 <br>
-
-
-## 미리 보기
-
-![udt_main](https://github.com/user-attachments/assets/cd48bb4a-e083-4a40-a1b8-64b4418737a2) | ![udt_login](https://github.com/user-attachments/assets/e5fe591b-1e2b-4548-80eb-70a76848cbda) | ![udt_sign](https://github.com/user-attachments/assets/4fca1182-622e-45b2-86c4-782005b59799)
---- | --- | --- |
 
 
 
